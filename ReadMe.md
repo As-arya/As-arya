@@ -1,6 +1,13 @@
 # 💫 About Me:
 I'm a Computer Science student at BINUS University Malang, specializing in Software Engineering. <br>I enjoy building software, exploring backend and web development, working with databases, and <br>turning ideas into functional projects. I'm continuously improving my problem-solving skills, learning <br>new technologies, and gaining hands-on experience through personal and academic projects.
 
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ary_alotia) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Asarya Jachred Alotia) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:asarya.alotia@gmail.com) 
@@ -12,13 +19,7 @@ I'm a Computer Science student at BINUS University Malang, specializing in Softw
 ![](https://streak-stats.demolab.com/?user=As-arya&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=As-arya&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-<picture data-importer="pacman">
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
-</picture>
 
-###
 
 ---
 [![](https://komarev.com/ghpvc/?username=As-arya&icon=9&color=red)](https://visitcount.itsvg.in)
