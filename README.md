@@ -20,7 +20,6 @@ I'm a Computer Science student at BINUS University Malang, specializing in Softw
   <img alt="[game-name] contribution graph" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/[game-name]-contribution-graph.svg">
 </picture>
 
-_generated with [abozanona/pacman-contribution-graph](https://abozanona.github.io/pacman-contribution-graph/)_
 
 ---
 [![](https://komarev.com/ghpvc/?username=As-arya&icon=9&color=red)](https://visitcount.itsvg.in)
