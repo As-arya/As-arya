@@ -18,6 +18,8 @@ I'm a Computer Science student at BINUS University Malang, specializing in Softw
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
 </picture>
 
+###
+
 ---
 [![](https://komarev.com/ghpvc/?username=As-arya&icon=9&color=red)](https://visitcount.itsvg.in)
 
