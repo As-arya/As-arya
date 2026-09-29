@@ -12,6 +12,12 @@ I'm a Computer Science student at BINUS University Malang, specializing in Softw
 ![](https://streak-stats.demolab.com/?user=As-arya&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=As-arya&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
 ---
 [![](https://komarev.com/ghpvc/?username=As-arya&icon=9&color=red)](https://visitcount.itsvg.in)
 
