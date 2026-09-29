@@ -1,16 +1,13 @@
 # 💫 About Me:
 I'm a Computer Science student at BINUS University Malang, specializing in Software Engineering. <br>I enjoy building software, exploring backend and web development, working with databases, and <br>turning ideas into functional projects. I'm continuously improving my problem-solving skills, learning <br>new technologies, and gaining hands-on experience through personal and academic projects.
 
- <picture data-importer="pacman">
--  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
--  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
--  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
-+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/As-arya/As-arya/pacman-output/pacman-contribution-graph-dark.svg">
-+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/As-arya/As-arya/pacman-output/pacman-contribution-graph.svg">
-+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/As-arya/As-arya/pacman-output/pacman-contribution-graph.svg">
- </picture>
- 
- ###
+<picture data-importer="pacman">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph-dark.svg?game=pacman">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/pacman-output/pacman-contribution-graph.svg?game=pacman">
+</picture>
+
+###
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ary_alotia) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Asarya Jachred Alotia) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:asarya.alotia@gmail.com) 
