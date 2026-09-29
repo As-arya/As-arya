@@ -14,11 +14,6 @@ I'm a Computer Science student at BINUS University Malang, specializing in Softw
 ![](https://streak-stats.demolab.com/?user=As-arya&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=As-arya&theme=dark&hide_border=true&include_all_commits=false&count_private=true&layout=compact)
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/[game-name]-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/[game-name]-contribution-graph.svg">
-  <img alt="[game-name] contribution graph" src="https://raw.githubusercontent.com/[USERNAME]/[USERNAME]/output/[game-name]-contribution-graph.svg">
-</picture>
 
 
 ---
