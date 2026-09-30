@@ -6,7 +6,7 @@
 
 ###
 
-### Asarya Jachred Alotia
+# Asarya Jachred Alotia
 
 # 💫 About Me:
 I'm a Computer Science student at BINUS University Malang, specializing in Software Engineering. <br>I enjoy building software, exploring backend and web development, working with databases, and <br>turning ideas into functional projects. I'm continuously improving my problem-solving skills, learning <br>new technologies, and gaining hands-on experience through personal and academic projects.
