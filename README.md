@@ -1,3 +1,13 @@
+<br clear="both">
+
+<div data-importer="border">
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&textBg=false&theme=gruvbox_light"  />
+</div>
+
+###
+
+### Asarya Jachred Alotia
+
 # 💫 About Me:
 I'm a Computer Science student at BINUS University Malang, specializing in Software Engineering. <br>I enjoy building software, exploring backend and web development, working with databases, and <br>turning ideas into functional projects. I'm continuously improving my problem-solving skills, learning <br>new technologies, and gaining hands-on experience through personal and academic projects.
 
